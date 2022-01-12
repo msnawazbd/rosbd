@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/amibachelor/public_html/rosbd/
-    - /bin/cp * $DEPLOYPATH
