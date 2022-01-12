@@ -1,5 +1,5 @@
 on: push
-name: 🚀 Deploy Private Server JERP CICD 1002
+name: 🚀 Deploy Private Server MS NAWAZ BD
 jobs:
   web-deploy:
     name: 🎉 Deploy
