@@ -14,4 +14,4 @@ jobs:
         server: 192.200.99.194
         username: ${{ secrets.ftp_msnawaz_username }}
         password: ${{ secrets.ftp_msnawaz_userpassword }}
-        server-dir: /home/amibachelor/public_html/amibachelor.com/msnawaz-ftp
+        server-dir: /home/amibachelor/public_html/amibachelor.com/msnawaz-ftp/
